@@ -8,7 +8,7 @@ Sample project with expandable tableview cells. Usage of stackview for the anima
 
 ## ScreenShot
 
-![Alt text](/screenshot.gif?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/faisalazeez/Expandable-Cell/master/ezgif.com-resize.gif)
 
 ## Requirements
 
